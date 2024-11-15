@@ -8,7 +8,7 @@ export default defineConfig({
   adapter: vercel({
     isr: {
       expiration: false,
-      bypassToken: "abcdefg",
+      bypassToken: "abcdefghijklmnopqrstuvwxyz0123456789",
     },
   }),
 });
