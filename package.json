@@ -1,0 +1,16 @@
+{
+  "name": "traditions-ancestrales-astro-vercel-isr",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "8.0.0-beta.4",
+    "astro": "^4.16.12"
+  }
+}
